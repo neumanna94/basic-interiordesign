@@ -38,3 +38,7 @@ body {
 .navigation_bar ul li {
   display:block;
 }
+
+p.important {
+  color: red;
+}
