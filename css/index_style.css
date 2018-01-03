@@ -7,6 +7,14 @@ body {
 .navigation_bar h1 {
   text-align: center;
 }
+
+.column p {
+  width: 375px;
+  float: left;
+  background: white;
+  border:5px;
+  border-color: black;
+}
 .navigation_bar ul {
   margin: 0px;
   padding: 0px;
@@ -29,7 +37,8 @@ body {
   color: #00ff00;
   display: block;
 
-}
+
+
 
 .navigation_bar ul li a:hover {
   color:white;
